@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BillCalculator</string>
+    <string name="enter_the_amount_to_be_paid">Enter the amount to be paid</string>
+    <string name="enter_the_number_of_friends">Enter the number of friends</string>
+</resources>
